@@ -139,5 +139,8 @@ Code snippet adapted with modification from : https://www.kaggle.com/grfiv4/plot
 ## Class Activation Maps
 
 Code snippet adapted with permission and modification from : https://github.com/yiskw713/ScoreCAM
+
  </small>
+ 
+ 
  <small> Documentation Update: 5/14/2020 </small>
