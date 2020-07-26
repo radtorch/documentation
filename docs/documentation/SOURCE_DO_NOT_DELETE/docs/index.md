@@ -12,12 +12,12 @@ gtag('config', 'UA-116382803-2');
 </head>
 
 
-# RADTorch  <small> The Radiology Machine Learning Framework </small>
+# RADTorch  <small> The Medical Imaging Machine Learning Framework </small>
 
 <!-- ## About -->
 
 <p style='text-align: justify;'>
-RADTorch provides a framework of higher level classes and functions that aim at significantly reducing the time needed for implementation of different machine and deep learning algorithms on DICOM medical images.
+RADTorch provides a framework of higher level classes and functions that significantly reduce the time needed for implementation of different machine and deep learning algorithms on DICOM and non-DICOM medical images.
 </p>
 
 <p style='text-align: justify;'>
@@ -25,7 +25,7 @@ RADTorch was <b>built by radiologists for radiologists</b> so they can build, te
 </p>
 
 <p style='text-align: justify;'>
-RADTorch was developed and is currently maintained by <b>Mohamed Elbanan, MD</b>: a Radiology Resident at Yale New Haven Health System, Clinical Research Affiliate at Yale School of Medicine and a Machine-learning enthusiast.
+RADTorch was developed and is currently maintained by <b>Mohamed Elbanan, MD</b>: a Radiology Resident at Yale New Haven Health System, Clinical Research Affiliate at Yale School of Medicine and Artificial Intelligence Advocate.
 </p>
 
 
@@ -43,4 +43,4 @@ RADTorch is built upon widely used machine learning and deep learning frameworks
 <!-- ![](img/radtorch_stack.png) -->
 
 
-<small> Documentation Update: 5/14/2020 </small>
+<small> Documentation Update: 08/01/2020 </small>

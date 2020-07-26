@@ -1,6 +1,10 @@
 
 # Core Module <small> radtorch.core </small>
 
+!!! error "Core Module Documentation is Out of Date"
+
+      Core Modules documentations is out of date. Please check again later.
+
 
 ```
 from radtorch import core

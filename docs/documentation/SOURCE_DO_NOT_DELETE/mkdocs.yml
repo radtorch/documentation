@@ -1,10 +1,10 @@
 site_name: RADTorch - API Documentation
 nav:
     - Home: index.md
-    - Getting Started: start.md
     - Installation: install.md
-    - radtorch.core: core.md
-    - radtorch.pipeline: pipeline.md
+    - Getting Started: start.md
+    - Pipeline: pipeline.md
+    - Core: core.md
     - Get Involved: involve.md
     - Copyrights: copyright.md
     - License: license.md

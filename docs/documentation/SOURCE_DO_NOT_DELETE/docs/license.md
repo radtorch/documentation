@@ -25,4 +25,4 @@ along with this program.  If not, see https://www.gnu.org/licenses/.
 </p>
 
 
-<small> Documentation Update: 5/14/2020 </small>
+<small> Documentation Update: 08/01/2020 </small>
